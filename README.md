@@ -20,3 +20,6 @@ pip install -r requirement.txt
 ```
 # Run the code
 Just run it.
+
+# Data Pre-process
+I have uploaded the data pre-process file to this repository.
